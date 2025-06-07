@@ -32,10 +32,11 @@ This project is an AI-powered Resume Screening Agent that automates the process 
 - `ranked_resumes.csv`: Output CSV file generated after running the agent.
 
 ## Demo Video
-Watch the demo video showcasing the functionality here: [Add your demo video link]
+Watch the demo video showcasing the functionality here: https://www.loom.com/share/af86df82c69d4fc28e9f48eaac9775d5?sid=eddab16f-ab3b-4bc7-830c-99bde3da5b81
 
 ## Contact
 For any questions or suggestions, feel free to reach out.
+ramuh266@gmail.com
 
 ---
 
